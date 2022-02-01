@@ -28,4 +28,4 @@ npm install
 npm run start
 ```
 ### Or view
-// link on build
+https://makspob.github.io/planner5d_test_task/
