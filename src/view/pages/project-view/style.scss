@@ -1,0 +1,19 @@
+.main {
+    padding: 0px 8px;
+    text-align: center;
+
+    .project-statistics {
+        display: flex;
+        justify-content: space-around;
+        border: 1px solid black;
+
+        &__dl {
+            display: flex;
+            flex-direction: row;
+        }
+    
+        &__dd {
+           margin-left: 4px;
+        }
+    }
+}

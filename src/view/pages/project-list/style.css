@@ -1,0 +1,19 @@
+.project-list__item {
+    padding: 2px 8px;
+    list-style-type: none;
+    max-width: 600px;
+}
+
+.project-list__item:hover {
+    cursor: pointer;
+    background-color: rgb(212, 212, 212);
+}
+
+.project-list__item-link {
+    color: black;
+    text-decoration: none;
+}
+
+.project-list__item-link:visited {
+    color: #1472ff;
+}

@@ -1,0 +1,3 @@
+.project-list__item{padding:2px 8px;list-style-type:none;max-width:600px}.project-list__item:hover{cursor:pointer;background-color:#d4d4d4}.project-list__item-link{color:#000;text-decoration:none}.project-list__item-link:visited{color:#1472ff}
+.main{padding:0px 8px;text-align:center}.main .project-statistics{display:flex;justify-content:space-around;border:1px solid #000}.main .project-statistics__dl{display:flex;flex-direction:row}.main .project-statistics__dd{margin-left:4px}
+body{margin:0 auto}
